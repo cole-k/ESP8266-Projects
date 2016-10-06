@@ -6,7 +6,7 @@ This is a simple script to make the ESP8266 do the following:
 * Host a local server on that WiFi network. The IP for this is output via serial and on the display itself.
 * Change the OLED display to reflect whatever input you give it
 
-The video provided showcases both the program in action and my inability to focus the camera. Note that it is of an earlier variant that did not display the IP of its server when it started up.
+<a href=https://drive.google.com/file/d/0B7b5Gf6me7nWZjFZeVAzS0tMVTA/view>Here is a video</a> that showcases both the program in action and my inability to focus the camera. Note that it is of an earlier variant that did not display the IP of its server when it started up.
 
 ###Some things to consider
 
