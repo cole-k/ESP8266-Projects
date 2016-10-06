@@ -3,7 +3,7 @@
 This is a simple script to make the ESP8266 do the following:
 
 * Connect to a WiFi network.
-* Host a local server on that WiFi network. This will be output via serial and on the display itself.
+* Host a local server on that WiFi network. The IP for this is output via serial and on the display itself.
 * Change the OLED display to reflect whatever input you give it
 
 ###Some things to consider
