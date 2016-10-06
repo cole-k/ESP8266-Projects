@@ -17,6 +17,6 @@ This is a simple script to make the ESP8266 do the following:
 ###For the future
 
 * I intend on doing general housekeeping on the code (cleaning it up, adding more comments, flexibility, etc.)
-* I intend on switching to POST instead of GET
+* I intend on switching from GET to POST
 * I intend on making the text displayed a variable or stored somehow so that when another user connects they see what text is currently being displayed (perhaps even update it in real time for all connected users)
 * I intend on looking into potentially using Arduino instead of Lua (it is unlikely that I will do this, but I intend on looking into it)
