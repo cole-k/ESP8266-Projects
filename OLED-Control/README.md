@@ -22,3 +22,10 @@ This is a simple script to make the ESP8266 do the following:
 * I intend on switching from GET to POST
 * I intend on making the text displayed a variable or stored somehow so that when another user connects they see what text is currently being displayed (perhaps even update it in real time for all connected users)
 * I intend on looking into potentially using Arduino instead of Lua (it is unlikely that I will do this, but I intend on looking into it)
+
+###Some credits
+
+There are credits to third-party examples or tutorials that I found helpful in writing my own code
+
+* [Ashishware](http://ashishware.com/Esp8266Display.shtml#) for a very concise and readable example of the u8g library for i2c control
+* [Random nerd tutorials](http://randomnerdtutorials.com/esp8266-web-server/) for a good example of server hosting
